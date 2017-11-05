@@ -1,0 +1,6 @@
+[submodule "chp13/hangman"]
+	path = chp13/hangman
+	url = https://github.com/orlandoc01/hangman.git
+[submodule "morse"]
+	path = morse
+	url = https://github.com/orlandoc01/morse.git
